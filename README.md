@@ -62,10 +62,7 @@ Dataset: [IMDB Movies Dataset](https://drive.google.com/file/d/1lruT50ZWD4PtvDbI
 * Identification of genres with the best ratings and revenue potential.
 * Evidence-based insights for studios to allocate budgets and target genres strategically.
 
-## 👤 Author
+## Author
+## Prachi Yadav
 
-**Disha Sindhi**
 
-* Email: [dishasindhi7@gmail.com](mailto:dishasindhi7@gmail.com)
-* LinkedIn: [Disha Sindhi](https://www.linkedin.com/in/disha-sindhi-b0092732a)
-* portfolio: [Disha Sindhi portfolio](https://www.wscubetech.com/portfolio/data/disha-sindhi-rsk7ymi)
